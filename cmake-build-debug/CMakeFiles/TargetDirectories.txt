@@ -1,0 +1,3 @@
+C:/Users/lucas/Documents/projetos/BeeCrowd-problems/cmake-build-debug/CMakeFiles/BeeCrowd_problems.dir
+C:/Users/lucas/Documents/projetos/BeeCrowd-problems/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/lucas/Documents/projetos/BeeCrowd-problems/cmake-build-debug/CMakeFiles/rebuild_cache.dir
