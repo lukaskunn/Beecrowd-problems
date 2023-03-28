@@ -1,0 +1,14 @@
+# ninja log v5
+3	1352	7017409993997591	CMakeFiles/BeeCrowd_problems.dir/main.cpp.obj	91f67c7aca7dc3d5
+14	1369	7017409994207583	CMakeFiles/BeeCrowd_problems.dir/src/Problem_2374.cpp.obj	6e54570d53a53d84
+1369	2211	7017410002277602	BeeCrowd_problems.exe	892aec2c2724d252
+5	1142	7017410747779475	CMakeFiles/BeeCrowd_problems.dir/main.cpp.obj	91f67c7aca7dc3d5
+1143	1548	7017410751219462	BeeCrowd_problems.exe	892aec2c2724d252
+17	834	7017411246038491	CMakeFiles/BeeCrowd_problems.dir/main.cpp.obj	91f67c7aca7dc3d5
+835	1118	7017411248218498	BeeCrowd_problems.exe	892aec2c2724d252
+6	912	7017411596931653	CMakeFiles/BeeCrowd_problems.dir/main.cpp.obj	91f67c7aca7dc3d5
+913	1188	7017411599081667	BeeCrowd_problems.exe	892aec2c2724d252
+15	866	7017411743550563	CMakeFiles/BeeCrowd_problems.dir/main.cpp.obj	91f67c7aca7dc3d5
+868	1154	7017411745760204	BeeCrowd_problems.exe	892aec2c2724d252
+14	920	7017491731081146	CMakeFiles/BeeCrowd_problems.dir/main.cpp.obj	91f67c7aca7dc3d5
+922	1144	7017491732690870	BeeCrowd_problems.exe	892aec2c2724d252
