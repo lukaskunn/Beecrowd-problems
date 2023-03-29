@@ -18,7 +18,7 @@ void Problem_2427::resolve()
         pieces = pieces * 4;
     }
 
-    cout << pieces;
+    cout << pieces << "\n";
 }
 
 #include "../include/Problem_2427.h"
