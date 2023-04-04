@@ -2,6 +2,7 @@
 - [1168 - LED](https://www.beecrowd.com.br/judge/pt/runs/code/32619089)
 - [1238 - Combinador](https://www.beecrowd.com.br/judge/pt/problems/view/1238)
 - [1241 - Encaixa ou Não II](https://www.beecrowd.com.br/judge/pt/problems/view/1241)
+- [1253 - Cifra de César](https://www.beecrowd.com.br/judge/pt/problems/view/1253)
 - [1429 - Fatorial de Novo!](https://www.beecrowd.com.br/judge/pt/problems/view/1429)
 - [1515](https://www.beecrowd.com.br/judge/pt/problems/view/1515)
 - [2189](https://www.beecrowd.com.br/judge/pt/problems/view/2189)
