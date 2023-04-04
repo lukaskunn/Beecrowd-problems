@@ -13,7 +13,7 @@ void Problem_1238::resolve()
     int caseCount, smallSizeWord;
     string firstWord, secondWord, biggerWord, newWord = "";
 
-    scanf("%d", &caseCount);
+    cin >> caseCount;
     
     for (int i = 0; i < caseCount; i++) {
         cin >> firstWord;
@@ -23,9 +23,7 @@ void Problem_1238::resolve()
         smallSizeWord = (firstWord.size() < secondWord.size()) ? firstWord.size() : secondWord.size();
         biggerWord = (firstWord.size() < secondWord.size()) ? secondWord : firstWord;
 
-        cout << biggerWord << "\n";
         for (int j = 0; j < smallSizeWord; j++) {
-            cout << firstWord[j] << " " << secondWord[j] << "\n";
             newWord.append(firstWord, j, 1);
             newWord.append(secondWord, j, 1);
         }
